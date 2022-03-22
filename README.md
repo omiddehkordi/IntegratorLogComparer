@@ -1,3 +1,11 @@
+Description:
+
+The program takes in multiple log files with data given for each component on the same circuit board in multiple test runs. The program then compares the multiple values for the same component over multiple tests to display the differences in outputs given by the test machine. This can be used to see whether the test machine is working correctly.
+
+
+
+
+
 Once you compile the code
 
 
